@@ -1,0 +1,13 @@
+{
+	"request":{
+			"url":"https://www.taobao.com"
+		},
+	"remote":{
+		"url":"https://www.baidu.com"
+		},
+	"local":{
+		"url":"/xx/xx.html",
+		"filesHash":["",""],
+		"filesUrl":["",""]
+		}
+}
