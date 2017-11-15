@@ -1,7 +1,5 @@
 {
-	"request":{
-			"url":"https://www.taobao.com"
-		},
+	"enable":"1",
 	"remote":{
 		"url":"https://www.baidu.com"
 		},
