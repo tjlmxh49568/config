@@ -2,10 +2,5 @@
 	"enable":"1",
 	"remote":{
 		"url":"https://www.baidu.com"
-		},
-	"local":{
-		"url":"/xx/xx.html",
-		"filesHash":["",""],
-		"filesUrl":["",""]
 		}
 }
